@@ -1,0 +1,71 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+.ulnavbar{
+  background-color: SteelBlue;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+#windspeedstorms{
+  font-size: 20px;
+  position: absolute;
+  right: 370px;
+  padding: 8.25px;
+}
+#temperatureconversioncalculator{
+  font-size: 20px;
+  position: absolute;
+  right: 10px;
+  padding: 8.25px;
+}
+#windspeedstorms:hover{
+  background-color: LightSteelBlue;
+}
+#temperatureconversioncalculator:hover{
+  background-color: LightSteelBlue;
+}
+#weather{
+  font-size: 20px;
+  position: absolute;
+  right: 600px;
+  padding: 8.25px;
+  background-color: LightSteelBlue;
+}
+ul.ulnavbar > li{
+  display: inline;
+}
+.linknavbar{
+  font-family: 'Open Sans', sans-serif;
+  color: White;
+  font-weight: bold;
+  text-decoration: none;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  margin-left: 115px;
+}
+h2{
+  font-size: 45px;
+  margin-left: 115px;
+}
+h3{
+  font-size: 30px;
+  margin-left: 115px;
+}
+h4{
+  font-size: 25px;
+  margin-left: 115px;
+}
+p{
+    font-size: 20px;
+    margin-left: 115px;
+}
+table{
+  margin-left: 115px;
+}
